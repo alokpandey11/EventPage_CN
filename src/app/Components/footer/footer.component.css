@@ -1,0 +1,19 @@
+.fa{
+    color: white;
+}
+a:hover{
+    transition: width .3s;
+    text-decoration: underline !important;
+    color: #ff783c !important;
+}
+a{
+    text-decoration: none !important;
+}
+
+.bg-white p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 0!important;
+}
